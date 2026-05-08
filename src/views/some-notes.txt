@@ -1,0 +1,17 @@
+ so the workflow would be:
+ intake
+ diagnosis
+ inspection complete (includes the report sent)
+ awaiting customer approval
+ under repair
+ ready for pickup
+ closed
+
+
+
+
+next is to change finding to "report" and where advisor in the finding page has another column to set price for each finding
+the technician set, and at the bottom is a link generator which generates a link to the customer to view the report and approve the price.
+
+customer page should be a simple page with report and price with a approve or decline button, and a submit button to send the response back to the advisor.
+and should support both desktop and mobile view.

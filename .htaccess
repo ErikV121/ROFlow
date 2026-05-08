@@ -1,0 +1,8 @@
+Options -Indexes
+
+RewriteEngine On
+
+RewriteRule ^(?:config|src)(?:/|$) - [F,L]
+
+RewriteRule ^public/ - [L]
+RewriteRule ^(.*)$ public/$1 [L]

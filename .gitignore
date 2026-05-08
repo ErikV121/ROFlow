@@ -1,0 +1,10 @@
+# Configuration & Secrets
+config/LocalConfig.php
+.env
+*.log
+# IDE / Editor Files
+.idea/
+.vscode/
+# OS Dependencies
+.DS_Store
+Thumbs.db
