@@ -18,22 +18,22 @@ Use the following credentials to log in and explore the system or create your ow
 ### 1. Register & Login
 Staff account creation and role-based routing (Advisor vs Technician).
 
-![Register & Login Demo](demo/register.mp4)
+![Register & Login Demo](demo/register.gif)
 
 ### 2. Advisor Workflow (Part 1: Intake)
 Taking a customer's vehicle info, creating an Intake RO, and assigning it to a technician.
 
-![Advisor Intake Demo](demo/advisor_1.mp4)
+![Advisor Intake Demo](demo/advisor_1.gif)
 
 ### 3. Technician Workflow
 Starting an assigned inspection, logging issues, and submitting findings back to the Advisor.
 
-![Technician Demo](demo/tech_1.mp4)
+![Technician Demo](demo/tech_1.gif)
 
 ### 4. Advisor Workflow (Part 2: Review)
 Reviewing the technician's inspection findings, adding prices, and generating a customer portal link.
 
-![Advisor Review Demo](demo/advisor_2.mp4)
+![Advisor Review Demo](demo/advisor_2.gif)
 
 ## Stack
 - PHP 8+
